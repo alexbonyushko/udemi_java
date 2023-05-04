@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="69c9f702-198e-43c4-9a20-740cf285869c" name="Changes" comment="" />
+    <list default="true" id="69c9f702-198e-43c4-9a20-740cf285869c" name="Changes" comment="create repo" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,6 +34,18 @@
       <option name="presentableId" value="Default" />
       <updated>1683226207318</updated>
     </task>
+    <task id="LOCAL-00001" summary="create repo">
+      <created>1683226358311</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1683226358311</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="create repo" />
+    <option name="LAST_COMMIT_MESSAGE" value="create repo" />
   </component>
 </project>
