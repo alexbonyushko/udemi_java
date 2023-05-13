@@ -1,7 +1,12 @@
+package section_1_java;
+
 import java.io.IOException;
 
 public class Start {
     public static void main(String[] args) throws IOException {
+        /**
+         * 7. Conditional
+         */
         char ch, answer = 'B';
         System.out.println("What letters did I ask? ");
         System.out.print("Try to answer letter: ");
@@ -13,5 +18,6 @@ public class Start {
         } else {
             System.out.println(" A little !");
         }
+
     }
 }

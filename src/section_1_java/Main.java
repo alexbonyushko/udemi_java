@@ -1,3 +1,5 @@
+package section_1_java;
+
 import static jdk.internal.org.jline.utils.Colors.s;
 
 public class Main {
