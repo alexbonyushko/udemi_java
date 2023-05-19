@@ -1,11 +1,10 @@
 package section_1_java;
 
-import static jdk.internal.org.jline.utils.Colors.s;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println(s);
-        /*check*/
-        String s="Hello world!";
+        Computer apple = new Computer(1000, 1500,"MacBook");
+
+        apple.isMemory();
     }
 }

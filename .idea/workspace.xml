@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="69c9f702-198e-43c4-9a20-740cf285869c" name="Changes" comment="10.Random">
-      <change afterPath="$PROJECT_DIR$/src/section_1_java/BubbleSort.java" afterDir="false" />
+    <list default="true" id="69c9f702-198e-43c4-9a20-740cf285869c" name="Changes" comment="11.Bubble Sort">
+      <change afterPath="$PROJECT_DIR$/src/section_1_java/Computer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/section_1_java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_1_java/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +55,7 @@
     "settings.editor.selected.configurable": "configurable.group.appearance"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.BubbleSort">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="section_1_java.Arrays" />
       <module name="udemi_selenium" />
@@ -94,6 +95,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section_1_java.Main" />
+      <module name="udemi_selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="section_1_java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="RandomPart" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="section_1_java.RandomPart" />
       <module name="udemi_selenium" />
@@ -107,26 +121,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Scanners" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section_1_java.Scanners" />
-      <module name="udemi_selenium" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="section_1_java.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.BubbleSort" />
         <item itemvalue="Application.RandomPart" />
         <item itemvalue="Application.Arrays" />
         <item itemvalue="Application.Cycles" />
-        <item itemvalue="Application.Scanners" />
       </list>
     </recent_temporary>
   </component>
@@ -188,7 +189,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684005653545</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="11.Bubble Sort">
+      <created>1684497942487</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1684497942487</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -199,7 +207,8 @@
     <MESSAGE value="8.Cycles" />
     <MESSAGE value="9.Array" />
     <MESSAGE value="10.Random" />
-    <option name="LAST_COMMIT_MESSAGE" value="10.Random" />
+    <MESSAGE value="11.Bubble Sort" />
+    <option name="LAST_COMMIT_MESSAGE" value="11.Bubble Sort" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
