@@ -4,15 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="69c9f702-198e-43c4-9a20-740cf285869c" name="Changes" comment="15.Overload">
-      <change afterPath="$PROJECT_DIR$/src/section_1_java/Boy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/section_1_java/Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/section_1_java/Girl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/section_1_java/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/section_1_java/School.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/section_1_java/Study.java" afterDir="false" />
+    <list default="true" id="69c9f702-198e-43c4-9a20-740cf285869c" name="Changes" comment="16.Interfaces">
+      <change afterPath="$PROJECT_DIR$/src/section_1_java/Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/section_1_java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_1_java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/section_1_java/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_1_java/Human.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -223,7 +218,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684518321143</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="16.Interfaces">
+      <created>1684519810551</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1684519810551</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -238,7 +240,8 @@
     <MESSAGE value="12.Classes" />
     <MESSAGE value="13.Inheritance" />
     <MESSAGE value="15.Overload" />
-    <option name="LAST_COMMIT_MESSAGE" value="15.Overload" />
+    <MESSAGE value="16.Interfaces" />
+    <option name="LAST_COMMIT_MESSAGE" value="16.Interfaces" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

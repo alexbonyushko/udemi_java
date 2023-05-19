@@ -1,6 +1,6 @@
 package section_1_java;
 
-public class Human {
+public abstract class Human {
     public Human() {
     }
 
@@ -11,4 +11,5 @@ public class Human {
     public Human(String q) {
         System.out.println(q);
     }
+    public abstract void func();
 }
