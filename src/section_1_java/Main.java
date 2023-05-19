@@ -3,8 +3,10 @@ package section_1_java;
 
 public class Main {
     public static void main(String[] args) {
-        Computer apple = new Computer(1000, 1500,"MacBook");
+        Computer apple = new Computer(1000, 1500, "MacBook");
+        //apple.isMemory();
 
-        apple.isMemory();
+        Cow burenka = new Cow("Muuu", 28);
+        burenka.mu();
     }
 }

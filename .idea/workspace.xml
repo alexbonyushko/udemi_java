@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="69c9f702-198e-43c4-9a20-740cf285869c" name="Changes" comment="11.Bubble Sort">
-      <change afterPath="$PROJECT_DIR$/src/section_1_java/Computer.java" afterDir="false" />
+    <list default="true" id="69c9f702-198e-43c4-9a20-740cf285869c" name="Changes" comment="12.Classes">
+      <change afterPath="$PROJECT_DIR$/src/section_1_java/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/section_1_java/Cow.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/section_1_java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_1_java/Main.java" afterDir="false" />
     </list>
@@ -196,7 +197,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684497942487</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="12.Classes">
+      <created>1684511482392</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1684511482392</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -208,7 +216,8 @@
     <MESSAGE value="9.Array" />
     <MESSAGE value="10.Random" />
     <MESSAGE value="11.Bubble Sort" />
-    <option name="LAST_COMMIT_MESSAGE" value="11.Bubble Sort" />
+    <MESSAGE value="12.Classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="12.Classes" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
