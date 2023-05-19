@@ -11,6 +11,8 @@ public class Main {
         Cow burenka = new Cow("Muuu", 28);
         burenka.mu();
 
-        Human human = new Human();
+        Boy ivan = new Boy();
+        Girl ira = new Girl();
+        Player unit = ivan;
     }
 }
