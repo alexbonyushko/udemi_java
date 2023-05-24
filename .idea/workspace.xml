@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="69c9f702-198e-43c4-9a20-740cf285869c" name="Changes" comment="18.Inner classes">
-      <change afterPath="$PROJECT_DIR$/src/section_1_java/Exceptions.java" afterDir="false" />
+    <list default="true" id="69c9f702-198e-43c4-9a20-740cf285869c" name="Changes" comment="20.Exceptions">
+      <change afterPath="$PROJECT_DIR$/src/section_1_java/Worker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/section_1_java/WorkerIsNotReadyException.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/section_1_java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_1_java/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +57,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.appearance&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Exceptions">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="section_1_java.BubbleSort" />
       <module name="udemi_selenium" />
@@ -123,8 +125,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Exceptions" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Exceptions" />
         <item itemvalue="Application.Task" />
         <item itemvalue="Application.BubbleSort" />
         <item itemvalue="Application.RandomPart" />
@@ -238,7 +240,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684943166800</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="20.Exceptions">
+      <created>1684944943705</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1684944943705</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -256,18 +265,8 @@
     <MESSAGE value="16.Interfaces" />
     <MESSAGE value="16.Abstraction" />
     <MESSAGE value="18.Inner classes" />
-    <option name="LAST_COMMIT_MESSAGE" value="18.Inner classes" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/section_1_java/Task.java</url>
-          <line>15</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="20.Exceptions" />
+    <option name="LAST_COMMIT_MESSAGE" value="20.Exceptions" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

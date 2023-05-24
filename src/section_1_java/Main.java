@@ -17,5 +17,14 @@ public class Main {
 
         InnerClass sony = new InnerClass();
         sony.say();
+
+        Worker worker=new Worker("John");
+        worker.atWork();
+
+        try {
+            worker.work();
+        } catch (WorkerIsNotReadyException e) {
+            throw new RuntimeException(e);
+        }
     }
 }
