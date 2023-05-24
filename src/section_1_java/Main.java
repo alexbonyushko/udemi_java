@@ -14,5 +14,8 @@ public class Main {
         Boy ivan = new Boy();
         Girl ira = new Girl();
         Player unit = ivan;
+
+        InnerClass sony = new InnerClass();
+        sony.say();
     }
 }
